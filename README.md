@@ -14,7 +14,7 @@
 
 - 🚀 I'm currently learning **Typescript, Blockchain, Python**
 
-- 📬 How to reach me **santiago666.sbe@gmail.com**
+- 📬 How to reach me **santiago.espinosa.dev@gmail.com**
 
 
 <div align="left">
