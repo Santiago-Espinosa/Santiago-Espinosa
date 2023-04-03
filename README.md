@@ -37,14 +37,14 @@
 
 ### 🔝 My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Santiago666espinosa&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Santiago-Espinosa&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago666espinosa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Espinosa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <!--
-**Santiago666espinosa/Santiago666espinosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Santiago-Espinosa/Santiago-Espinosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
